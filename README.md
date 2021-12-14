@@ -4,11 +4,9 @@
 추가한 사진들을 일정한 간격으로 전환하여 보여줄 수 있음.
 </br>
 # 결과화면
-![1](./screenshot/1.png)
-
-![2](./screenshot/2.png)
-
-![3](./screenshot/3.png)
+|Screenshot1|Screenshot2|
+|---|---|
+|<img src="./screenshot/1.png"/>|<img src="./screenshot/2.png"/>|
 </br>
 # 배운 내용 정리
 
